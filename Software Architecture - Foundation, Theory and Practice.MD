@@ -16,5 +16,19 @@ We can use an analogy from the architecture of buildings to help us understand t
 
 ### 1.1.1 Limitations of Analogy
 
+Analogy is helpful, but limited.
+
 - We have much more knowledge about building than software architecture.
-- 
+- Physically speaking, the essences of buildings and software are different.
+
+### 1.1.2 Big Idea
+
+Give preeminence to architecture, and it will offer the potential for realizing :
+
+- Intellectual control
+- Conceptual integrity
+- An adequate and effective basis for reuse
+- Effective project communication
+- Management of a set of related variant systems
+
+## 1.2 The Power and Necessity of Big Ideas: The Architecture of the Web
