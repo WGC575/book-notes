@@ -4,7 +4,7 @@ Authored by Richard, Nenad, and Eric
 
 ## 1 - The Big Idea
 
-## 1.1 The Power of Analogy: The Architecture of Buildings
+### 1.1 The Power of Analogy: The Architecture of Buildings
 
 We can use an analogy from the architecture of buildings to help us understand the architectures of software. And both share some principles.
 
@@ -14,14 +14,14 @@ We can use an analogy from the architecture of buildings to help us understand t
 - Architecture precedes process and is prior to process.
 - Domain knowledge exists for architecture and evolves over iterations.
 
-### 1.1.1 Limitations of Analogy
+#### 1.1.1 Limitations of Analogy
 
 Analogy is helpful, but limited.
 
 - We have much more knowledge about building than software architecture.
 - Physically speaking, the essences of buildings and software are different.
 
-### 1.1.2 Big Idea
+#### 1.1.2 Big Idea
 
 Give preeminence to architecture, and it will offer the potential for realizing :
 
@@ -31,4 +31,16 @@ Give preeminence to architecture, and it will offer the potential for realizing 
 - Effective project communication
 - Management of a set of related variant systems
 
-## 1.2 The Power and Necessity of Big Ideas: The Architecture of the Web
+### 1.2 The Power and Necessity of Big Ideas: The Architecture of the Web
+
+One of the world's most successful software systems is understood adequately only from an architectural vantage point.
+More details about this are shown in chapter 11.
+
+## 1.3 The Power of Architecture in the Small: Architecture on the Desktop
+
+The Unix commands.
+
+## 1.4 The Power of Architecture in Business
+
+
+## 8 - Analysis
