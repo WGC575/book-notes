@@ -42,5 +42,4 @@ The Unix commands.
 
 ## 1.4 The Power of Architecture in Business
 
-
 ## 8 - Analysis
